@@ -1,8 +1,9 @@
 ---
-contributors: false
 lastUpdated: false
+contributors: false
+externalLinkIcon: true
+date: 2023-09-13
 ---
-
 # All Songs
 
 All pages here contain songs (in Swahili) that I settle on and decide to learn their lyrics, periodically.
@@ -38,12 +39,14 @@ The pages have a standard format.
 
 ## Format
 
-- Title
-- Links
-  - Youtube
-  - Spotify
-- Lyrics (with translations if available)
+* Title
+* Links
+
+  * Youtube
+  * Spotify
+* Lyrics (with translations if available)
 
 ## Popular songs
 
-- [Tuko tayari (Mwanga Band)](/songs/2023-04-10)
+* [Tuko tayari (Mwanga Band)](/songs/2023-04-10)
+* [A Hard Day's Night (The Beatles)](/songs/2023-09-13/)
